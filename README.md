@@ -1,5 +1,6 @@
 # SocketRoom
 A real-time personal and group chat web application
+
 -Developed a real-time personal and group chat web application, like *discord* using HTML, CSS, JavaScript and
 NodeJS
 
